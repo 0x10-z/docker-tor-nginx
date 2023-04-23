@@ -1,0 +1,7 @@
+services:
+  docker-tor-nginx:
+    build: .
+    image: "docker-tor-nginx"
+    container_name: "docker-tor-nginx"
+    ports:
+      - "80:80"
