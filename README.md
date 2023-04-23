@@ -1,5 +1,8 @@
 # Docker Tor Nginx
 
+![](https://img.shields.io/badge/Build%20with-Docker-blue)
+![](https://img.shields.io/badge/Docker%20compose-Friendly-orange)
+![](https://img.shields.io/badge/Nginx-1.24.0-brightgreen)
 
 # Get started
 You can deploy this project using Docker
@@ -26,5 +29,5 @@ docker-compose up
 # ft_onion-onion-nginx-1  | j55eu2my2xpffid5bc2eysgvm3fxhfhqdw662bx6opxjli5svqx7fbad.onion
 ```
 
-* Copy *j55eu2my2xpffid5bc2eysgvm3fxhfhqdw662bx6opxjli5svqx7fbad.onion*. Be aware every time you rebuild container, domain will be different!!
+Copy *j55eu2my2xpffid5bc2eysgvm3fxhfhqdw662bx6opxjli5svqx7fbad.onion*. Be aware every time you rebuild container, domain will be different!!
 
