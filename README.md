@@ -1,8 +1,4 @@
-# ft_onion
-
-# TODO
-
-Tunear con shallot el hash que se genera
+# Docker Tor Nginx
 
 
 # Get started
